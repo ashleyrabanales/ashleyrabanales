@@ -4,6 +4,7 @@
 - Currently interning at Jacob's Ladder 
 
 
-#Find me 📫 
-[Email] : https://asheyrabanales@outlook.com
-[Linkedin] : https://www.linkedin.com/in/ashley-rabanales-8957b1206/
+##Find me 📫 
+
+- [Email] : https://asheyrabanales@outlook.com
+- [Linkedin] : https://www.linkedin.com/in/ashley-rabanales-8957b1206/
