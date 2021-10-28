@@ -3,6 +3,6 @@
 - I’m currently a senior at Kennesaw State University,majoring in Psychology and minor in Data Anaylsis and Applied Statistics
 - Currently interning at Jacob's Ladder 
 
-# Contact Me 📫 
+## Contact Me 📫 
 - [Email] : https://asheyrabanales@outlook.com
 - [Linkedin] : https://www.linkedin.com/in/ashley-rabanales-8957b1206/
