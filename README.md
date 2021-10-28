@@ -7,4 +7,5 @@
 
 ## Contact Me 📫 
 + [Email] : https://asheyrabanales@outlook.com
-+ [Linkedin] :  https://www.linkedin.com/in/ashley-rabanales-8957b1206/
+
+[<img align="left" alt="ashleyrabanales | LinkedIn" width="22px" src="https://www.linkedin.com/in/ashley-rabanales-8957b1206/" />][linkedin]
