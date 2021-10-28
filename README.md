@@ -6,7 +6,5 @@
 
 
 ## Contact Me 📫 
-+ [Email] : https://asheyrabanales@outlook.com
-+ [Linkedin] : https://www.linkedin.com/in/ashley-rabanales-8957b1206/
-
-[website]: https://codeSTACKr.com
++ [Email]: https://asheyrabanales@outlook.com
++ [Linkedin]:  https://www.linkedin.com/in/ashley-rabanales-8957b1206/
