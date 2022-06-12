@@ -1,5 +1,5 @@
 # Hi, I’m Ashley 👩🏻‍💻
-- 🥑 I’m interested in Data Scientist and Statistics 
+- 🥑 I’m interested in Data and Statistics 
 - 📚 Alumni at Kennesaw State University, majored in Psychology and minor in Data Anaylsis and Applied Statistics 
 - 🐚 Intern at Jacob's Ladder 
 - ☄️ Fun Fact: I raise a domestic flock 
