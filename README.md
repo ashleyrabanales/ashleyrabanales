@@ -1,6 +1,6 @@
 # Hi, I’m Ashley 👩🏻‍💻
 - 🥑 I’m interested in Data and Statistics 
-- Graduate Student at Georgia State University, pursuing M.S. Data Science and Analytics
+- Graduate Student at Georgia State University, pursuing M.S. in Data Science and Analytics
 - 📚 Alumni at Kennesaw State University, majored in Psychology and minor in Data Anaylsis and Applied Statistics 
 - 🐚 Intern at Jacob's Ladder 
 - ☄️ Fun Fact: I raise a domestic flock 
