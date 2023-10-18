@@ -2,7 +2,6 @@
 - 🥑 I’m interested in Data and Statistics 
 - 🫧 Graduate Student Assistant at Georgia State University, pursuing M.S. in Data Science and Analytics
 - 📚 Alumni at Kennesaw State University, majored in Psychology and minor in Data Anaylsis and Applied Statistics 
-- 🐚 Tutor at Math Motivators
 - 🐥 Fun Fact: I raise a domestic flock 
 
 
