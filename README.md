@@ -11,8 +11,3 @@
 - Check out my projects!
 
 
-
-
-## Contact Me 📫 
-+ [Email] : https://asheyrabanales@outlook.com
-+ [LinkedIn] : https://www.linkedin.com/in/ashley-rabanales-8957b1206/
