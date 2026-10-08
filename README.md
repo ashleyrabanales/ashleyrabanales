@@ -1,4 +1,9 @@
 # Hi, I’m Ashley Rabanales 👩🏻‍💻
+
+## Contact Me 📫 
++ [Email] : https://asheyrabanales@outlook.com
++ [LinkedIn] : https://www.linkedin.com/in/ashley-rabanales-8957b1206/
+  
 - 🥑 I’m interested in Data and Statistics
 - 👾 Data Analyst 
 - 🫧 M.S. in Data Science and Analytics
