@@ -22,8 +22,8 @@ I'm looking to apply my skills in new areas:
 
 ## Projects 
 
-### ["Child Data"]() - Undergrad Research
+### ["Child Data"](https://github.com/ashleyrabanales/childdata_rabanales_1.R) - Undergrad Research
 * Conducted research related to foster care of children 
-* Designed research hypotheses, surveys, data collection methods to aid in the labs research goals
-* Worked under Dr. Sarah Young who guided me through the IRB application and research development
+* Designed research hypotheses, surveys, data collection methods to aid in research goals
+
 
