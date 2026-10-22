@@ -17,12 +17,12 @@ I'm looking to apply my skills in new areas:
 | Contact Me 📫 |
 |  ----------- |
 | [Email](https://asheyrabanales@outlook.com) |
-| [LinkedIn](https://www.linkedin.com/in/ashleyrabanales/) |
+| [LinkedIn](https://www.linkedin.com/in/ashleyrabanales/) <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="28px">|
   
 
 ## Projects 
 
-### ["Dive in the Foster Care System](https://github.com/ashleyrabanales/childdata_rabanales_1.R) - Undergrad Research
+### ["Dive in the Foster Care System"](https://github.com/ashleyrabanales/childdata_rabanales_1.R) - Undergrad Research
 * Conducted research related to foster care of children 
 * Designed research hypotheses, surveys, data collection methods to aid in research goals
 
