@@ -22,7 +22,7 @@ I'm looking to apply my skills in new areas:
 
 ## Projects 
 
-### ["Child Data"](https://github.com/ashleyrabanales/childdata_rabanales_1.R) - Undergrad Research
+### ["Dive in the Foster Care System](https://github.com/ashleyrabanales/childdata_rabanales_1.R) - Undergrad Research
 * Conducted research related to foster care of children 
 * Designed research hypotheses, surveys, data collection methods to aid in research goals
 
