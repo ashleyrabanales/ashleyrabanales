@@ -1,4 +1,4 @@
-# Hi, I’m Ashley Rabanales, M.S. in Data Science and Analytic <img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="200">
+# Hi, I’m Ashley Rabanales, M.S. in Data Science and Analytics <img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="200">
 
 I am a Data Analyst and have 4 years of experience! 
 + Driven by a passion for data science and statistics, I build predictive models and analytical solutions that turn large, complex datasets into clear, trustworthy insights people can act on. With a background in psychology and data science, I'm fascinated by understanding human behavior through data, and I'm committed to doing this work with integrity, accuracy, and high standards of quality.
