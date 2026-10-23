@@ -6,7 +6,7 @@ I am a Data Analyst and have 4 years of experience!
 Some of my interest include:
 Data Science, ML, Analytical Storytelling, Marketing, Data Visualization, Statistics, and Research
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt="animation"> The coding languages I currently use are SAS, SQL, Alteryx but I also know Python and R. 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt="animation"> The coding languages I currently use are SAS, SQL, and Alteryx but I also know Python and R. 
 
 I'm looking to apply my skills in new areas:
 - Aerospace analytics
