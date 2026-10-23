@@ -24,7 +24,10 @@ I'm looking to apply my skills in new areas:
 ## Projects 
 
 ### ["Dive in the Foster Care System"](https://github.com/ashleyrabanales/childdata_rabanales_1.R) - Undergrad Research
-* Conducted research related to foster care of children 
-* Designed research hypotheses, surveys, data collection methods to aid in research goals
+### Project Purpose
+* This project analyzes the 2019 National Data Archive on Child Abuse and Neglect (NDACAN) foster care data, which is housed at Cornell University and overseen by the Children's Bureau. The data include case-level information on all children in foster care for whom State and Tribal Title IV-E agencies have responsibility for placement, care, or supervision, as well as children adopted through those agencies. Title IV-E agencies submit this data to the Children's Bureau twice a year. I used the publicly available version of the data, which is de-identified before release to researchers, for all analyses.
+### Goal
+* Conducted research related to foster care of children
+* To explore whether there are associations between selected categorical variables in the data, and to use statistical analysis and visualizations to show differences and similarities and to uncover new insights.
 
 
