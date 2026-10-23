@@ -29,6 +29,7 @@ I'm looking to apply my skills in new areas:
 * Compared ARIMA and Random Forest models for stock price forecasting and used AR-GARCH and Value-at-Risk to estimate portfolio risk.
 * Built and evaluated the models in R using RMSE, MSE, and MAE.
 * Found that ARIMA performed best, and identified a 60/40 JPMorgan/Google portfolio with the lowest risk.
+* [Final Report](https://github.com/ashleyrabanales/predictive_analytics/blob/master/Final%20Report%20-%20Team%205.pdf)
 
 ### ["Dive in the Foster Care System"](https://github.com/ashleyrabanales/childdata_rabanales_1.R) - Undergrad Research
 * This project analyzes the 2019 National Data Archive on Child Abuse and Neglect (NDACAN) foster care data, which is housed at Cornell University and overseen by the Children's Bureau. The data include case-level information on all children in foster care for whom State and Tribal Title IV-E agencies have responsibility for placement, care, or supervision, as well as children adopted through those agencies. Title IV-E agencies submit this data to the Children's Bureau twice a year. I used the publicly available version of the data, which is de-identified before release to researchers, for all analyses.
