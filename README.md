@@ -1,10 +1,11 @@
-# Hi, I’m Ashley Rabanales, M.S. in Data Science and Analytics <img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="200">
+# Hi, I’m Ashley Rabanales <img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="200">
+ M.S. in Data Science and Analytics at Georgia State University
 
 I am a Data Analyst and have 4 years of experience! 
 + Driven by a passion for data science and statistics, I build predictive models and analytical solutions that turn large, complex datasets into clear, trustworthy insights people can act on. With a background in psychology and data science, I'm fascinated by understanding human behavior through data, and I'm committed to doing this work with integrity, accuracy, and high standards of quality.
 
 Some of my interest include:
-Data Science, ML, Analytical Storytelling, Marketing, Data Visualization, Statistics, and Research
+Data Science, ML, Analytical Storytelling, Marketing, Data Visualization, Statistics, and Research, and expanding
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt="animation"> The coding languages I currently use are SAS, SQL, and Alteryx but I also know Python and R. 
 
