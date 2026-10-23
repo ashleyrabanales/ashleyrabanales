@@ -23,11 +23,22 @@ I'm looking to apply my skills in new areas:
 
 ## Projects 
 
+### ["Stock Price Forecasting and Risk Measurements"](https://github.com/ashleyrabanales/predictive_analytics) - Graduate Research Assistant
+* Compared ARIMA and Random Forest models for stock price forecasting and used AR-GARCH and Value-at-Risk to estimate portfolio risk.
+* Built and evaluated the models in R using RMSE, MSE, and MAE.
+* Found that ARIMA performed best, and identified a 60/40 JPMorgan/Google portfolio with the lowest risk.
+
 ### ["Dive in the Foster Care System"](https://github.com/ashleyrabanales/childdata_rabanales_1.R) - Undergrad Research
-### Project Purpose
 * This project analyzes the 2019 National Data Archive on Child Abuse and Neglect (NDACAN) foster care data, which is housed at Cornell University and overseen by the Children's Bureau. The data include case-level information on all children in foster care for whom State and Tribal Title IV-E agencies have responsibility for placement, care, or supervision, as well as children adopted through those agencies. Title IV-E agencies submit this data to the Children's Bureau twice a year. I used the publicly available version of the data, which is de-identified before release to researchers, for all analyses.
-### Goal
 * Conducted research related to foster care of children
 * To explore whether there are associations between selected categorical variables in the data, and to use statistical analysis and visualizations to show differences and similarities and to uncover new insights.
 
+### ["Suicide Rates"](https://github.com/ashleyrabanales/suiciderates_rabanales.R) - Undergrad Project
+* Conducted research on global suicide trends by country and generation.
+* Used R (tidyverse, ggplot2) to clean the data and build visualizations.
+* Found that suicide rates rose in many countries between 1990 and 2016.
 
+### ["Cardiovascular Diseases: Heart Failure"](https://github.com/ashleyrabanales/heart_rabanales3.R) -Undergrad Project
+* Conducted research on heart failure clinical records (12 features) to explore factors linked to patient mortality.
+* Used R in VS Code to build visualizations (scatter plots, bar charts, and confidence intervals) comparing age groups, gender, and diabetes status.
+* Found that deaths were most frequent early in the follow-up period, and that diabetes showed patterns consistent with higher heart and kidney risk.
